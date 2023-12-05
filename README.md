@@ -35,7 +35,7 @@ I offer a range of web development services including but not limited to:
 - [ ] Launch: Deploying the website to your chosen domain.
 
 
--[ ] Post-launch Support: Providing ongoing maintenance and support.
+- [ ] Post-launch Support: Providing ongoing maintenance and support.
 ------
 ## Pricing Structure
 Pricing depends on the complexity and requirements of the project. Below are indicative prices:
