@@ -17,7 +17,7 @@ I offer a range of web development services including but not limited to:
 - Portfolio Websites: Showcase your work or business with a visually appealing and interactive portfolio website.
 - Custom Web Applications: Tailored web applications to suit specific business requirements.
 ## Design and Development Process
--[ ] Initial Consultation: Understanding your needs, objectives, and preferences.
+- [ ] Initial Consultation: Understanding your needs, objectives, and preferences.
 
 
 - [ ] Design Mockups: Creating initial design concepts for your review.
